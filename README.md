@@ -1,19 +1,16 @@
-# Yoonsoo P. Bach
-
 ## Publications & Profiles
-Number of journal papers 
 
+    No. of journal papers 
     (last update 2022-10-19)
-                    A  +  B  +  C  +  D 
+                    SCI auth   non-SCI
+                   1st + nth + 1st + nth
     Published    =   3 +   8 +   0 +   0 
     Accepted     =   0 +   1 +   0 +   0 
     Under-review =   0 +   0 +   0 +   0 
     In-prep      =   2 +   1 +   1 +   0 
 
-(A = 1st/corr author, SCI; B = n-th auth SCI; C = 1st non-SCI; D = n-th non-SCI)
-
-  * ADS (refereed): [link](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22bach%2C%20yoonsoo%20p.%22%20property%3Arefereed%20year%3A2000-&sort=date%20desc%2C%20bibcode%20desc)
-  * ORCiD: ``0000-0002-2618-1124`` ([link](https://orcid.org/my-orcid?orcid=0000-0002-2618-1124))
+  * [ADS (refereed)](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22bach%2C%20yoonsoo%20p.%22%20property%3Arefereed%20year%3A2000-&sort=date%20desc%2C%20bibcode%20desc)
+  * [ORCiD ``0000-0002-2618-1124``](https://orcid.org/my-orcid?orcid=0000-0002-2618-1124)
   * GitHub [@ysBach](https://github.com/ysBach)
   * ysbach93@gmail.com
 
