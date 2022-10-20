@@ -14,21 +14,30 @@
   * GitHub [@ysBach](https://github.com/ysBach)
   * ysbach93@gmail.com
 
-## Research Interest
-  * Theory: **Thermal** radiation, radiation pressure from airless bodies
+<details><summary><h2> Research Interest </h2></summary>
+<p>
+
+* Theory: **Thermal** radiation, radiation pressure from airless bodies
     * DESTINY+ mission related.
-  * Observation: Optical & near-IR **polarimetry**/photometry
+* Observation: Optical & near-IR **polarimetry**/photometry
     * Experience in HAWAII array
-  * Coding: Scientific tool development in **python**
-  
-## Education
+* Coding: Scientific tool development in **python**
+</p>
+</details>
+
+<details><summary><h2> Education </h2></summary>
+<p>
+
   - 💞️ **PhD Student** in **Astronomy** 
     - Seoul Nat. Uni. (Korea)
     - expected to get degree in 2023 Fall - 2024
   - BSc in Physics (Cum Laude) at KAIST, Korea.
+</p>
+</details>
 
+<details><summary><h2> Achievements & Scholarships </h2></summary>
+<p>
 
-## Achievements & Scholarships
   - **Outstanding Graduate Student** (2022)
     - From SNU Brain Korea 21, 4th stage, [Frontier Physics Division (FPD)](https://fpd.snu.ac.kr/)
     - Two students from FPD were selected based on recent research achievements
@@ -44,6 +53,10 @@
     - Had an [interview](https://kast.tistory.com/14)(Korean)
   - The only perfect score in the qualifying exam (2018)
   - Silver medal in 3rd IOAA (2009), excellent answer sheet in the data analysis round
+</p>
+</details>
+
+
 
 <!---
 ysBach/ysBach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
