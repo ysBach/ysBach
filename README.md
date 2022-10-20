@@ -17,11 +17,30 @@
 <details><summary><h2> Research Interest </h2></summary>
 <p>
 
-* Theory: **Thermal** radiation, radiation pressure from airless bodies
-    * DESTINY+ mission related.
-* Observation: Optical & near-IR **polarimetry**/photometry
-    * Experience in HAWAII array
-* Coding: Scientific tool development in **python**
+### Theory: 
+* **Thermal** radiation, radiation pressures from airless bodies (Bach+ [2021 A&A](https://ui.adsabs.harvard.edu/abs/2021A%26A...654A.113B/abstract), [2017 AJ](https://ui.adsabs.harvard.edu/abs/2017AJ....154..202B/abstract))
+* **DESTINY+ mission** related (3200 Phaethon).
+
+### Observation
+* Optical & near-IR **polarimetry**/photometry 
+* Experience in **HAWAII infrared array**, as well as optical detectors
+* Experience in accurate photometry (flat-field analyses, statistics, instrument parameter analyses, absolute/relative photometry of trailed objects, ...)
+* Experience in detector parameter analysis (gain, readout noise, waveplate rotation, ...)
+
+Bach+ [2019 JKAS: Toutatis optical phot](https://ui.adsabs.harvard.edu/abs/2019JKAS...52...71B/abstract);
+Ishiguro+ [2017 AJ: Icarus optical pol](https://ui.adsabs.harvard.edu/abs/2017AJ....154..180I/abstract), [2022 MNRAS: 2005UD optical pol](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.4128I/abstract);
+Geem+ [2022 MNRAS: ACO optical pol](https://ui.adsabs.harvard.edu/abs/2022A%26A...658A.158G/abstract), [2022 MNRAS: Phaethon optical pol](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516L..53G/abstract);
+Ito+ [2018 NatCo: Phaethon optical pol](https://ui.adsabs.harvard.edu/abs/2018NatCo...9.2486I/abstract);
+Kuroda+ [2021 ApJL: Ryugu optical pol](https://ui.adsabs.harvard.edu/abs/2021ApJ...911L..24K/abstract);
+Takahashi+ [2022 A&A: Earthshine NIR pol](https://ui.adsabs.harvard.edu/abs/2021A%26A...653A..99T/abstract)
+
+In prep: Bach+ 2022 SAG (will be submitted in Oct); Bach+ 2023 PASP: effect of fringe in NIR; Bach+ 2023 MNRAS: NIR polarimetry science paper (observations finished, results almost fixed).
+
+### Coding & Education
+Scientific tool development & astronomical data reduction lectures in **python**.
+
+See the 📌pinned repos below.
+
 </p>
 </details>
 
