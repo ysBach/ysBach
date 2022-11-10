@@ -39,7 +39,8 @@ In prep: Bach+ 2022 SAG (will be submitted in Oct); Bach+ 2023 PASP: effect of f
 ### Coding & Education
 Scientific tool development & astronomical data reduction lectures in **python**.
 
-See the 📌pinned repos below.
+* Significant contribution to SNU Astronomical Observation classes ([SNU_AOclass](https://github.com/ysBach/SNU_AOclass))
+* See the 📌pinned repos below.
 
 </p>
 </details>
@@ -74,6 +75,23 @@ See the 📌pinned repos below.
   - Silver medal in 3rd IOAA (2009), excellent answer sheet in the data analysis round
 </p>
 </details>
+
+
+
+<details><summary><h2> Social Services </h2></summary>
+<p>
+
+  - Rep. of Korea **Army** (Expert Research Personnel) 2019 Feb - 2022 Feb @ SNU.
+  - **Organizer** of Astronomy Open Events at SNU ([website](https://sites.google.com/view/oasnu))
+    - **Leader** 2019 Apr - 2023 Feb
+    - 5+ Lectures (some are on [Youtube](https://www.youtube.com/@oasnu); [2021a](https://youtu.be/3lsxpqYFyss), [2021b](https://youtu.be/7HpW5KGUg6I) and [2022](https://youtu.be/IjMUTPe1fvs))
+  - **Korean National Team Leader** for international olympiads (2020 GeCAA, 2021 IOAA, 2022 IOAA)
+  - **Graduate student president** of Astronomy major (fiscal year 2018 as vice president & 2020 as acting president)
+  - **Vice president** of Daejeon city branch, voluntary teacher, **leader** of educational psychology committee at Bae-Na-Sa (the largest voluntary educational organization in Korea targetting minorities).
+  - Dozens of lectures at Korean Astronomical Olympiad, Korea Academy of S&T(KAST) camps, SNU College of Natural Sciences camps, etc.
+</p>
+</details>
+
 
 
 
