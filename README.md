@@ -1,13 +1,14 @@
 ## Publications & Profiles
 
     No. of journal papers 
-    (last update 2022-10-19)
-                    SCI auth   non-SCI
-                   1st + nth + 1st + nth
-    Published    =   3 +   8 +   0 +   0 
-    Accepted     =   0 +   1 +   0 +   0 
-    Under-review =   0 +   0 +   1 +   0 
-    In-prep      =   2 +   1 +   0 +   0 
+    (last update 2023-01-26)
+|              | SCI author |     | non-SCI author |     |
+|--------------|:----------:|:---:|:--------------:|-----|
+|              | 1st        | nth | 1st            | nth |
+| Published    | 3          | 9   |        1       |     |
+| Accepted     |            | 1   |                |     |
+| Under-Review |            |     |                |     |
+| In Prep.     | 2          |     |                |     |
 
   * [ADS (refereed)](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22bach%2C%20yoonsoo%20p.%22%20property%3Arefereed%20year%3A2000-&sort=date%20desc%2C%20bibcode%20desc)
   * [ORCiD ``0000-0002-2618-1124``](https://orcid.org/my-orcid?orcid=0000-0002-2618-1124)
