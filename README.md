@@ -1,13 +1,12 @@
 ## Publications & Profiles
 
 (last update 2023-01-26)
-|              | SCI author |     | non-SCI author |     |
-|--------------|:----------:|:---:|:--------------:|-----|
-|              | 1st        | nth | 1st            | nth |
-| Published    | 3          | 9   |        1       |     |
-| Accepted     |            | 1   |                |     |
-| Under-Review |            |     |                |     |
-| In Prep.     | 2          |     |                |     |
+|              | SCI 1st author | SCI nth author | non-SCI 1st author | non-SCI nth author |
+|-------------:|:--------------:|:--------------:|:------------------:|:------------------:|
+|    Published |        3       |        9       |          1         |                    |
+|     Accepted |                |        1       |                    |                    |
+| Under-Review |                |                |                    |                    |
+|     In Prep. |        2       |                |                    |                    |
 
   * [ADS (refereed)](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22bach%2C%20yoonsoo%20p.%22%20property%3Arefereed%20year%3A2000-&sort=date%20desc%2C%20bibcode%20desc)
   * [ORCiD ``0000-0002-2618-1124``](https://orcid.org/my-orcid?orcid=0000-0002-2618-1124)
