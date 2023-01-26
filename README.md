@@ -1,7 +1,6 @@
 ## Publications & Profiles
 
-    No. of journal papers 
-    (last update 2023-01-26)
+(last update 2023-01-26)
 |              | SCI author |     | non-SCI author |     |
 |--------------|:----------:|:---:|:--------------:|-----|
 |              | 1st        | nth | 1st            | nth |
