@@ -1,4 +1,4 @@
-## Publications & Profiles
+# Publications & Profiles
 
 (last update 2023-01-26)
 |              | SCI 1st author | SCI nth author | non-SCI 1st author | non-SCI nth author |
@@ -13,24 +13,23 @@
   * GitHub [@ysBach](https://github.com/ysBach)
   * ysbach93@gmail.com
 
-<details><summary><h2> Research Interest </h2></summary>
-<p>
+# Research Interest
 
-### Theory: 
+## Theory: 
 * **Thermal** radiation, radiation pressures from airless bodies.
 * **DESTINY+ mission** related (3200 Phaethon).
  
-**Papers**:
+### Papers
 * [Bach+ (2021) A&A](https://ui.adsabs.harvard.edu/abs/2021A%26A...654A.113B/abstract): Dust ejection from Phaethon and near-Sun asteroids (theory)
 * [Bach+ (2017) AJ](https://ui.adsabs.harvard.edu/abs/2017AJ....154..202B/abstract): Thermal modeling of comet-like objects (AKARI)
 
-### Observation
+## Observation
 * Optical & near-IR **polarimetry**/photometry 
 * Experience in **HAWAII infrared array**, as well as optical detectors
 * Experience in accurate photometry (flat-field analyses, statistics, instrument parameter analyses, absolute/relative photometry of trailed objects, ...)
 * Experience in detector parameter analysis (gain, readout noise, waveplate rotation, ...)
 
-**Papers**:
+### Papers:
 * [Bach+ (2019) JKAS](https://ui.adsabs.harvard.edu/abs/2019JKAS...52...71B/abstract): Optical **phot**ometry of (4179) Toutatis using KMTNet, determination of geometric albedo.
 * [Bach+ 2022 SAG](https://ui.adsabs.harvard.edu/abs/2022arXiv221214167B/abstract): NIR polarimetric pipeline development for NHAO NIC, detector parameter refinements.
 * [Ishiguro+ (2017) AJ](https://ui.adsabs.harvard.edu/abs/2017AJ....154..180I/abstract): Optical **pol**arimetry (1566) Icarus in the positive branch (Pmax), determination of particle size
@@ -43,26 +42,23 @@
 
 In prep: ach+ 2023 PASP: effect of fringe in NIR; Bach+ 2023 MNRAS: NIR polarimetry science paper (observations finished, results almost fixed).
 
-### Coding & Education
+## Coding & Education
 Scientific tool development & astronomical data reduction lectures in **python**.
 
 * Significant contribution to SNU Astronomical Observation classes ([SNU_AOclass](https://github.com/ysBach/SNU_AOclass))
 * See the 📌pinned repos below.
 
-</p>
-</details>
-
-<details><summary><h2> Education </h2></summary>
+<details><summary><h1> Education </h1></summary>
 <p>
 
-  - 💞️ **PhD Student** in **Astronomy** 
+  - 💞️ **PhD Candidate** in **Astronomy** 
     - Seoul Nat. Uni. (Korea)
-    - expected to get degree in 2023 Fall - 2024
+    - expected to get degree in 2023 Aug.
   - BSc in Physics (Cum Laude) at KAIST, Korea.
 </p>
 </details>
 
-<details><summary><h2> Achievements & Scholarships </h2></summary>
+<details><summary><h1> Achievements & Scholarships </h1></summary>
 <p>
 
   - **Outstanding Graduate Student** (2022)
@@ -85,10 +81,10 @@ Scientific tool development & astronomical data reduction lectures in **python**
 
 
 
-<details><summary><h2> Social Services </h2></summary>
+<details><summary><h1> Social Services </h1></summary>
 <p>
 
-  - Rep. of Korea **Army** (Expert Research Personnel) 2019 Feb - 2022 Feb @ SNU.
+  - Republic of Korea **Army** (Expert Research Personnel) 2019 Feb - 2022 Feb @ SNU.
   - **Organizer** of Astronomy Open Events at SNU ([website](https://sites.google.com/view/oasnu))
     - **Leader** 2019 Apr - 2023 Feb
     - 5+ Lectures (some are on [Youtube](https://www.youtube.com/@oasnu); [2021a](https://youtu.be/3lsxpqYFyss), [2021b](https://youtu.be/7HpW5KGUg6I) and [2022](https://youtu.be/IjMUTPe1fvs))
