@@ -17,8 +17,12 @@
 <p>
 
 ### Theory: 
-* **Thermal** radiation, radiation pressures from airless bodies (Bach+ [2021 A&A](https://ui.adsabs.harvard.edu/abs/2021A%26A...654A.113B/abstract), [2017 AJ](https://ui.adsabs.harvard.edu/abs/2017AJ....154..202B/abstract))
+* **Thermal** radiation, radiation pressures from airless bodies.
 * **DESTINY+ mission** related (3200 Phaethon).
+ 
+**Papers**:
+* [Bach+ (2021) A&A](https://ui.adsabs.harvard.edu/abs/2021A%26A...654A.113B/abstract): Dust ejection from Phaethon and near-Sun asteroids (theory)
+* [Bach+ (2017) AJ](https://ui.adsabs.harvard.edu/abs/2017AJ....154..202B/abstract): Thermal modeling of comet-like objects (AKARI)
 
 ### Observation
 * Optical & near-IR **polarimetry**/photometry 
@@ -26,14 +30,18 @@
 * Experience in accurate photometry (flat-field analyses, statistics, instrument parameter analyses, absolute/relative photometry of trailed objects, ...)
 * Experience in detector parameter analysis (gain, readout noise, waveplate rotation, ...)
 
-Bach+ [2019 JKAS: Toutatis optical phot](https://ui.adsabs.harvard.edu/abs/2019JKAS...52...71B/abstract);
-Ishiguro+ [2017 AJ: Icarus optical pol](https://ui.adsabs.harvard.edu/abs/2017AJ....154..180I/abstract), [2022 MNRAS: 2005UD optical pol](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.4128I/abstract);
-Geem+ [2022 MNRAS: ACO optical pol](https://ui.adsabs.harvard.edu/abs/2022A%26A...658A.158G/abstract), [2022 MNRAS: Phaethon optical pol](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516L..53G/abstract);
-Ito+ [2018 NatCo: Phaethon optical pol](https://ui.adsabs.harvard.edu/abs/2018NatCo...9.2486I/abstract);
-Kuroda+ [2021 ApJL: Ryugu optical pol](https://ui.adsabs.harvard.edu/abs/2021ApJ...911L..24K/abstract);
-Takahashi+ [2022 A&A: Earthshine NIR pol](https://ui.adsabs.harvard.edu/abs/2021A%26A...653A..99T/abstract)
+**Papers**:
+* [Bach+ (2019) JKAS](https://ui.adsabs.harvard.edu/abs/2019JKAS...52...71B/abstract): Optical **phot**ometry of (4179) Toutatis using KMTNet, determination of geometric albedo.
+* [Bach+ 2022 SAG](https://ui.adsabs.harvard.edu/abs/2022arXiv221214167B/abstract): NIR polarimetric pipeline development for NHAO NIC, detector parameter refinements.
+* [Ishiguro+ (2017) AJ](https://ui.adsabs.harvard.edu/abs/2017AJ....154..180I/abstract): Optical **pol**arimetry (1566) Icarus in the positive branch (Pmax), determination of particle size
+* [Ishiguro, Bach+ (2022) MNRAS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.4128I/abstract): Optical **pol**arimetry (155140) 2005 UD. Determination of the anhydrous nature using polarimetry. 
+* [Geem+ (2022) MNRAS](https://ui.adsabs.harvard.edu/abs/2022A%26A...658A.158G/abstract): Optical **pol**arimetry, ACO (Asteroids in Comet-like Orbits)
+* [Geem+ (2022) MNRAS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516L..53G/abstract): Optical **pol**arimetry (3200) Phaethon in the negative branch
+* [Ito+ (2018) NatCo](https://ui.adsabs.harvard.edu/abs/2018NatCo...9.2486I/abstract): Optical **pol**arimetry (3200) Phaethon in the positive branch (Pmax)
+* [Kuroda+ (2021) ApJL](https://ui.adsabs.harvard.edu/abs/2021ApJ...911L..24K/abstract): Optical **pol**arimetry (162173) Ryugu in the positive branch (Pmax)
+* [Takahashi+ (2022) A&A](https://ui.adsabs.harvard.edu/abs/2021A%26A...653A..99T/abstract): Optical **pol**arimetry of the Earthshine on the Moon, found correlation with ocean coverage.
 
-In prep: Bach+ 2022 SAG (will be submitted in Oct); Bach+ 2023 PASP: effect of fringe in NIR; Bach+ 2023 MNRAS: NIR polarimetry science paper (observations finished, results almost fixed).
+In prep: ach+ 2023 PASP: effect of fringe in NIR; Bach+ 2023 MNRAS: NIR polarimetry science paper (observations finished, results almost fixed).
 
 ### Coding & Education
 Scientific tool development & astronomical data reduction lectures in **python**.
