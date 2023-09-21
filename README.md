@@ -51,54 +51,8 @@ Scientific tool development & astronomical data reduction lectures in **Python**
 * Significant contribution to SNU Astronomical Observation classes ([SNU_AOclass](https://github.com/ysBach/SNU_AOclass))
 * See the 📌pinned repos below.
 
-<details><summary><h1> Education </h1></summary>
-<p>
 
-  - 💞️ **PhD** in **Astronomy** 
-    - Seoul Nat. Uni. (Korea)
-    - expected to get degree in 2023 Aug.
-  - BSc in Physics (Cum Laude) at KAIST, Korea.
-</p>
-</details>
-
-<details><summary><h1> Achievements & Scholarships </h1></summary>
-<p>
-
-  - **Outstanding Graduate Student** (2022)
-    - From SNU Brain Korea 21, 4th stage, [Frontier Physics Division (FPD)](https://fpd.snu.ac.kr/)
-    - Two students from FPD were selected based on recent research achievements
-  - **The Presidential Science Scholarship** (2011-2015)
-    - From [Korea Student Aid Foundation(KoSAF)](https://www.kosaf.go.kr/ko/main.do)
-    - Fully funded tuition fees for 8 full semesters
-    - Got excellent grade incentives ($ 2,500) for 6 semesters
-    - Had an [interview](https://www.chosun.com/site/data/html_dir/2011/12/14/2011121401838.html) (Korean)
-  - Excellency Award 
-    - From [Korean Academy of S&T (KAST)](https://kast.or.kr/en/)
-    - Being exemplary of KAST mentorship program 
-    - supervisor: prof. Il-Tong Cheon 
-    - Had an [interview](https://kast.tistory.com/14)(Korean)
-  - The only perfect score in the qualifying exam (2018)
-  - Silver medal in 3rd IOAA (2009), excellent answer sheet in the data analysis round
-</p>
-</details>
-
-
-
-<details><summary><h1> Social Services </h1></summary>
-<p>
-
-  - Republic of Korea **Army** (Expert Research Personnel) 2019 Feb - 2022 Feb @ SNU.
-  - **Organizer** of Astronomy Open Events at SNU ([website](https://sites.google.com/view/oasnu))
-    - **Leader** 2019 Apr - 2023 Feb
-    - 5+ Lectures (some are on [Youtube](https://www.youtube.com/@oasnu); [2021a](https://youtu.be/3lsxpqYFyss), [2021b](https://youtu.be/7HpW5KGUg6I) and [2022](https://youtu.be/IjMUTPe1fvs))
-  - **Korean National Team Leader** for international olympiads (2020 GeCAA, 2021 IOAA, 2022 IOAA)
-  - **Graduate student president** of Astronomy major (fiscal year 2018 as vice president & 2020 as acting president)
-  - **Vice president** of Daejeon city branch, voluntary teacher, **leader** of educational psychology committee at Bae-Na-Sa (the largest voluntary educational organization in Korea targetting minorities).
-  - Dozens of lectures at Korean Astronomical Olympiad, Korea Academy of S&T(KAST) camps, SNU College of Natural Sciences camps, etc.
-</p>
-</details>
-
-
+More details: [PDF CV](https://www.dropbox.com/s/kicj8wg393r15qw/cv.pdf?dl=0)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E1HAMV5)
 <!---
