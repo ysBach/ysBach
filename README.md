@@ -12,7 +12,7 @@
 \* non-SCI publications are registerd to arXiv. See links below:
 
   * [NASA ADS]([https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22bach%2C%20yoonsoo%20p.%22%20property%3Arefereed%20year%3A2000-&sort=date%20desc%2C%20bibcode%20desc](https://ui.adsabs.harvard.edu/search/q=author%3A%22bach%2C%20yoonsoo%20p.%22%20year%3A2010-%20bibstem%3A(-%20zndo)%20bibstem%3A(-%20yCat)))
-  * [ORCiD ``0000-0002-2618-1124``](https://orcid.org/my-orcid?orcid=0000-0002-2618-1124)
+  * [ORCiD ``0000-0002-2618-1124``](https://orcid.org/0000-0002-2618-1124)
   * GitHub [@ysBach](https://github.com/ysBach)
   * ysbach93@gmail.com
 
