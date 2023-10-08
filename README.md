@@ -1,13 +1,13 @@
 # Publications & Profiles
 [PDF CV](https://www.dropbox.com/s/kicj8wg393r15qw/cv.pdf?dl=0)
 
-(last update 2023-01-26)
+(last update 2023-10-08)
 |              | SCI 1st author | SCI nth author | non-SCI 1st author | non-SCI nth author |
 |-------------:|:--------------:|:--------------:|:------------------:|:------------------:|
 |    Published |        3       |        11      |          1*        |                    |
 |     Accepted |                |                |                    |                    |
-| Under-Review |                |                |                    |                    |
-|     In Prep. |        2       |                |                    |                    |
+| Under-Review |        2       |                |                    |                    |
+|     In Prep. |        1       |                |                    |                    |
 
 \* non-SCI publications are registerd to arXiv. See links below:
 
