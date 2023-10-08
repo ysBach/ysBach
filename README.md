@@ -17,7 +17,10 @@
   * ysbach93@gmail.com
 
 # Research Interest
+My general interest includes emission and scattering processes on airless objects in the solar system (theory, observation, experimental data analyses, data reduction and related statistics and coding).
 
+Currently I am working at KASI (Korea) as a postdoc researcher for NASA's SPHEREx (solar system science & pipeline development).
+ 
 ## Theory: 
 * **Thermal** radiation, radiation pressures from airless bodies.
 * **DESTINY+ mission** related (3200 Phaethon).
