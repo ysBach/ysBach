@@ -37,9 +37,9 @@ Currently I am working at KASI (Korea) as a postdoc researcher for NASA's SPHERE
 
 ### Papers:
 First-author & selected N-th author publications
-* Bach+ (2024) A&A: https://github.com/ysBach/BachYP_etal_CeresVesta_NHAO
+* [Bach+ (2024a, b) A&A](https://github.com/ysBach/BachYP_etal_CeresVesta_NHAO): **NIR** **pol**arimetry of airless objects
 * [Bach+ (2019) JKAS](https://ui.adsabs.harvard.edu/abs/2019JKAS...52...71B/abstract): Optical **phot**ometry of (4179) Toutatis using KMTNet, determination of geometric albedo.
-* [Bach+ (2022) SAG](https://ui.adsabs.harvard.edu/abs/2022arXiv221214167B/abstract): NIR polarimetric pipeline development for NHAO NIC, detector parameter refinements.
+* [Bach+ (2022) SAG](https://ui.adsabs.harvard.edu/abs/2022arXiv221214167B/abstract): **NIR** **pol**arimetric **pipeline** development for NHAO NIC, detector parameter refinements.
 * [Ishiguro+ (2017) AJ](https://ui.adsabs.harvard.edu/abs/2017AJ....154..180I/abstract): Optical **pol**arimetry (1566) Icarus in the positive branch (Pmax), determination of particle size
 * [Ishiguro, Bach+ (2022) MNRAS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.4128I/abstract): Optical **pol**arimetry (155140) 2005 UD. Determination of the anhydrous nature using polarimetry. 
 * [Geem+ (2022) MNRAS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516L..53G/abstract): Optical **pol**arimetry (3200) Phaethon in the negative branch
@@ -47,7 +47,7 @@ First-author & selected N-th author publications
 * [Kuroda+ (2021) ApJL](https://ui.adsabs.harvard.edu/abs/2021ApJ...911L..24K/abstract): Optical **pol**arimetry (162173) Ryugu in the positive branch (Pmax)
 * [Takahashi+ (2022) A&A](https://ui.adsabs.harvard.edu/abs/2021A%26A...653A..99T/abstract): Optical **pol**arimetry of the Earthshine on the Moon, found correlation with ocean coverage.
 
-In prep: Bach+ 2023 PASP: effect of fringe in NIR; Bach+ 2023 MNRAS: NIR polarimetry science paper (observations finished, results almost fixed).
+In prep: effect of fringe in NIR.
 
 ## Coding & Education
 Scientific tool development & astronomical data reduction lectures in **Python**.
