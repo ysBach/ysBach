@@ -1,7 +1,7 @@
 # Publications & Profiles
 [PDF CV](https://www.dropbox.com/s/kicj8wg393r15qw/cv.pdf?dl=0)
 
-(last update 2023-10-08)
+(last update 2024-01-17)
 |              | SCI 1st author | SCI nth author | non-SCI 1st author | non-SCI nth author |
 |-------------:|:--------------:|:--------------:|:------------------:|:------------------:|
 |    Published |        3       |        11      |          1*        |                    |
