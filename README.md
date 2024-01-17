@@ -5,8 +5,8 @@
 |              | SCI 1st author | SCI nth author | non-SCI 1st author | non-SCI nth author |
 |-------------:|:--------------:|:--------------:|:------------------:|:------------------:|
 |    Published |        3       |        11      |          1*        |                    |
-|     Accepted |                |                |                    |                    |
-| Under-Review |        2       |                |                    |                    |
+|     Accepted |        2       |                |                    |                    |
+| Under-Review |                |                |                    |                    |
 |     In Prep. |        1       |                |                    |                    |
 
 \* non-SCI publications are available via arXiv. See links below:
@@ -36,7 +36,8 @@ Currently I am working at KASI (Korea) as a postdoc researcher for NASA's SPHERE
 * Experience in detector parameter analysis (gain, readout noise, waveplate rotation, ...)
 
 ### Papers:
-Co-authored papers are only selected papers.
+First-author & selected N-th author publications
+* Bach+ (2024) A&A: https://github.com/ysBach/BachYP_etal_CeresVesta_NHAO
 * [Bach+ (2019) JKAS](https://ui.adsabs.harvard.edu/abs/2019JKAS...52...71B/abstract): Optical **phot**ometry of (4179) Toutatis using KMTNet, determination of geometric albedo.
 * [Bach+ (2022) SAG](https://ui.adsabs.harvard.edu/abs/2022arXiv221214167B/abstract): NIR polarimetric pipeline development for NHAO NIC, detector parameter refinements.
 * [Ishiguro+ (2017) AJ](https://ui.adsabs.harvard.edu/abs/2017AJ....154..180I/abstract): Optical **pol**arimetry (1566) Icarus in the positive branch (Pmax), determination of particle size
