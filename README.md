@@ -21,7 +21,7 @@ My general interest includes emission and scattering processes on airless object
 
 Currently I am working at KASI (Korea) as a postdoc researcher for NASA's SPHEREx (solar system science & pipeline development).
  
-## Theory: 
+## Theory-oriented
 * **Thermal** radiation, radiation pressures from airless bodies.
 * **DESTINY+ mission** related (3200 Phaethon).
  
@@ -29,10 +29,11 @@ Currently I am working at KASI (Korea) as a postdoc researcher for NASA's SPHERE
 * [Bach+ (2021) A&A](https://ui.adsabs.harvard.edu/abs/2021A%26A...654A.113B/abstract): Dust ejection from Phaethon and near-Sun asteroids (theory)
 * [Bach+ (2017) AJ](https://ui.adsabs.harvard.edu/abs/2017AJ....154..202B/abstract): Thermal modeling of comet-like objects (AKARI)
 
-## Observation-related
-* Optical & near-IR **polarimetry**/photometry 
-* Experience in **HAWAII infrared array**, as well as optical detectors
-* Experience in accurate photometry (flat-field analyses, statistics, instrument parameter analyses, absolute/relative photometry of trailed objects, ...)
+## Observation-oriented
+Main topics are
+* Optical & near-infrared (NIR) polarimetry/photometry 
+* Experience in HAWAII infrared array, as well as optical detectors
+* Experience in extra-effort for accurate photometry (flat-field analyses, statistics, instrument parameter analyses, absolute/relative photometry of trailed objects, ...)
 * Experience in detector parameter analysis (gain, readout noise, waveplate rotation, ...)
 
 ### Papers:
