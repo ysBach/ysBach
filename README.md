@@ -22,6 +22,7 @@ My general interest includes emission and scattering processes on airless object
 Currently I am working at KASI (Korea) as a postdoc researcher for NASA's SPHEREx (solar system science & pipeline development).
  
 ## Theory-oriented
+Main topics I focus on:
 * **Thermal** radiation, radiation pressures from airless bodies.
 * **DESTINY+ mission** related (3200 Phaethon).
  
@@ -30,7 +31,7 @@ Currently I am working at KASI (Korea) as a postdoc researcher for NASA's SPHERE
 * [Bach+ (2017) AJ](https://ui.adsabs.harvard.edu/abs/2017AJ....154..202B/abstract): Thermal modeling of comet-like objects (AKARI)
 
 ## Observation-oriented
-Main topics are
+Main topics I focus on:
 * Optical & near-infrared (NIR) polarimetry/photometry 
 * Experience in HAWAII infrared array, as well as optical detectors
 * Experience in extra-effort for accurate photometry (flat-field analyses, statistics, instrument parameter analyses, absolute/relative photometry of trailed objects, ...)
@@ -38,14 +39,15 @@ Main topics are
 
 ### Papers:
 First-author & selected N-th author publications
-* [Bach+ (2024a, b) A&A](https://github.com/ysBach/BachYP_etal_CeresVesta_NHAO): **NIR** **pol**arimetry of airless objects
+* [Bach+ (2024a, b) A&A](https://github.com/ysBach/BachYP_etal_CeresVesta_NHAO): **NIR** **pol**arimetry of airless objects in the negative branch.
 * [Bach+ (2022) SAG](https://ui.adsabs.harvard.edu/abs/2022arXiv221214167B/abstract): **NIR** **pol**arimetric **pipeline** development for NHAO NIC, detector parameter refinements.
 * [Bach+ (2019) JKAS](https://ui.adsabs.harvard.edu/abs/2019JKAS...52...71B/abstract): Optical **phot**ometry of (4179) Toutatis using KMTNet, determination of geometric albedo.
 * [Ishiguro+ (2017) AJ](https://ui.adsabs.harvard.edu/abs/2017AJ....154..180I/abstract): Optical **pol**arimetry (1566) Icarus in the positive branch (Pmax), determination of particle size
-* [Ishiguro, Bach+ (2022) MNRAS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.4128I/abstract): Optical **pol**arimetry (155140) 2005 UD. Determination of the anhydrous nature using polarimetry. 
-* [Geem+ (2022) MNRAS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516L..53G/abstract): Optical **pol**arimetry (3200) Phaethon in the negative branch
-* [Ito+ (2018) NatCo](https://ui.adsabs.harvard.edu/abs/2018NatCo...9.2486I/abstract): Optical **pol**arimetry (3200) Phaethon in the positive branch (Pmax)
-* [Kuroda+ (2021) ApJL](https://ui.adsabs.harvard.edu/abs/2021ApJ...911L..24K/abstract): Optical **pol**arimetry (162173) Ryugu in the positive branch (Pmax)
+* [Ishiguro, Bach+ (2022) MNRAS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.4128I/abstract): Optical **pol**arimetry (155140) 2005 UD. Determination of the anhydrous nature using polarimetry.
+* [Geem+ (2023) MNRAS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.525L..17G/abstract): Optical **spec**troscopy of Hayabusa2# misison target (2001 CC21.)
+* [Geem+ (2022) MNRAS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516L..53G/abstract): Optical **pol**arimetry (3200) Phaethon in the negative branch.
+* [Ito+ (2018) NatCo](https://ui.adsabs.harvard.edu/abs/2018NatCo...9.2486I/abstract): Optical **pol**arimetry (3200) Phaethon in the positive branch (Pmax).
+* [Kuroda+ (2021) ApJL](https://ui.adsabs.harvard.edu/abs/2021ApJ...911L..24K/abstract): Optical **pol**arimetry (162173) Ryugu in the positive branch (Pmax).
 * [Takahashi+ (2022) A&A](https://ui.adsabs.harvard.edu/abs/2021A%26A...653A..99T/abstract): Optical **pol**arimetry of the Earthshine on the Moon, found correlation with ocean coverage.
 
 In prep: effect of fringe in NIR.
