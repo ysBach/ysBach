@@ -1,4 +1,4 @@
-# Publications & Profiles
+# Yoonsoo P. Bach
 [PDF CV](https://www.dropbox.com/s/kicj8wg393r15qw/cv.pdf?dl=0)
 
 (last update 2024-01-17)
@@ -14,10 +14,9 @@
   * [NASA ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22bach%2C%20yoonsoo%20p.%22%20year%3A2010-%20bibstem%3A(-%20zndo)%20bibstem%3A(-%20yCat))
   * [ORCiD ``0000-0002-2618-1124``](https://orcid.org/0000-0002-2618-1124)
   * GitHub [@ysBach](https://github.com/ysBach)
-  * ysbach93@gmail.com
 
-# Research Interest
-My general interest includes emission and scattering processes on airless objects in the solar system (theory, observation, experimental data analyses, data reduction and related statistics and coding).
+## Research Interest
+My general interest includes **emission and scattering processes on airless objects** in the solar system (theory, observation, experimental data analyses, data reduction and related statistics and coding).
 
 Currently I am working at KASI (Korea) as a postdoc researcher for NASA's SPHEREx (solar system science & pipeline development).
  
@@ -31,7 +30,7 @@ In *observational* approach, the main topics I focus on are:
 * Experience in extra-effort for accurate photometry (flat-field analyses, statistics, instrument parameter analyses, absolute/relative photometry of trailed objects, ...)
 * Experience in detector parameter analysis (gain, readout noise, waveplate rotation, ...)
 
-### Papers
+## Selected Papers
 First-author & selected N-th author publications
 * [Bach+ (2024a, b) A&A](https://github.com/ysBach/BachYP_etal_CeresVesta_NHAO): **NIR** **pol**arimetry of airless objects in the negative branch.
 * [Bach+ (2022) SAG](https://ui.adsabs.harvard.edu/abs/2022arXiv221214167B/abstract): **NIR** **pol**arimetric **pipeline** development for NHAO NIC, detector parameter refinements.
@@ -57,6 +56,7 @@ Scientific tool development & astronomical data reduction lectures in **Python**
 
 More details: [PDF CV](https://www.dropbox.com/s/kicj8wg393r15qw/cv.pdf?dl=0)
 
+## Support
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E1HAMV5)
 <!---
 ysBach/ysBach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
