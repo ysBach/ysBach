@@ -4,7 +4,7 @@
 (last update 2024-01-17)
 |              | SCI 1st author | SCI nth author | non-SCI 1st author | non-SCI nth author |
 |-------------:|:--------------:|:--------------:|:------------------:|:------------------:|
-|    Published |        3       |        11      |          1*        |                    |
+|**Published** |     _**3**_    |     _**11**_   |       _**1***_     |      _**-**_       |
 |     Accepted |        2       |                |                    |                    |
 | Under-Review |                |                |                    |                    |
 |     In Prep. |        3       |                |                    |                    |
