@@ -38,8 +38,8 @@ First-author & selected N-th author publications
 * [Bach+ (2021) A&A (Theory)](https://ui.adsabs.harvard.edu/abs/2021A%26A...654A.113B/abstract): Dust ejection from (3200) Phaethon and near-Sun asteroids by thermal radiation pressure (TPM & calculation codes [here](https://github.com/ysBach/thermal_radiation01)).
 * [Bach+ (2019) JKAS](https://ui.adsabs.harvard.edu/abs/2019JKAS...52...71B/abstract): Optical **phot**ometry of (4179) Toutatis using KMTNet, determination of geometric albedo (photometry & analyses codes [here](https://github.com/ysBach/KMTNet_Toutatis)).
 * [Bach+ (2017) AJ](https://ui.adsabs.harvard.edu/abs/2017AJ....154..202B/abstract): Thermal modeling of comet-like objects (AKARI)
-* [Ishiguro+ (2017) AJ](https://ui.adsabs.harvard.edu/abs/2017AJ....154..180I/abstract): Optical **pol**arimetry (1566) Icarus in the positive branch (Pmax), determination of particle size
 * [Ishiguro, Bach+ (2022) MNRAS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.4128I/abstract): Optical **pol**arimetry (155140) 2005 UD. Determination of the anhydrous nature using polarimetry (photometry & MCMC codes [here](https://github.com/ysBach/IshiguroM_etal_155140_2005UD)).
+* [Ishiguro+ (2017) AJ](https://ui.adsabs.harvard.edu/abs/2017AJ....154..180I/abstract): Optical **pol**arimetry (1566) Icarus in the positive branch (Pmax), determination of particle size
 * [Geem+ (2023) MNRAS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.525L..17G/abstract): Optical **spec**troscopy of Hayabusa2# misison target (2001 CC21.)
 * [Geem+ (2022) MNRAS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516L..53G/abstract): Optical **pol**arimetry (3200) Phaethon in the negative branch.
 * [Ito+ (2018) NatCo](https://ui.adsabs.harvard.edu/abs/2018NatCo...9.2486I/abstract): Optical **pol**arimetry (3200) Phaethon in the positive branch (Pmax).
