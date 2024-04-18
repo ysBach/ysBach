@@ -6,12 +6,10 @@
 (last update 2024-04-12)
 |              | SCI 1st author | SCI nth author | non-SCI 1st author | non-SCI nth author |
 |-------------:|:--------------:|:--------------:|:------------------:|:------------------:|
-|**Published** |     _**5**_    |     _**11**_   |       _**1***_     |      _**-**_       |
+|**Published** |     _**5**_    |     _**11**_   |       _**1**_     |      _**-**_       |
 |     Accepted |                |                |                    |                    |
 | Under-Review |                |        1       |                    |                    |
 |     In Prep. |        3       |        3       |                    |                    |
-
-\* non-SCI publications are available via arXiv. See links below:
 
   * [NASA ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22bach%2C%20yoonsoo%20p.%22%20year%3A2010-%20bibstem%3A(-%20zndo)%20bibstem%3A(-%20yCat))
   * [ORCiD ``0000-0002-2618-1124``](https://orcid.org/0000-0002-2618-1124)
