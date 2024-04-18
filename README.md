@@ -3,7 +3,7 @@
 
 [PDF CV](https://www.dropbox.com/s/kicj8wg393r15qw/cv.pdf?dl=0)
 
-(last update 2024-04-12)
+(last update 2024-04-18)
 |              | SCI 1st author | SCI nth author | non-SCI 1st author | non-SCI nth author |
 |-------------:|:--------------:|:--------------:|:------------------:|:------------------:|
 |**Published** |     _**5**_    |     _**11**_   |       _**1**_     |      _**-**_       |
@@ -11,6 +11,7 @@
 | Under-Review |                |        1       |                    |                    |
 |     In Prep. |        3       |        3       |                    |                    |
 
+Profiles:
   * [NASA ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22bach%2C%20yoonsoo%20p.%22%20year%3A2010-%20bibstem%3A(-%20zndo)%20bibstem%3A(-%20yCat))
   * [ORCiD ``0000-0002-2618-1124``](https://orcid.org/0000-0002-2618-1124)
   * GitHub [@ysBach](https://github.com/ysBach)
@@ -32,8 +33,8 @@ In *observational* approach, the main topics I focus on are:
 
 ## Selected Papers
 First-author & selected N-th author publications
-* [Bach+ (2024b) A&A](https://doi.org/10.1051/0004-6361/202348916): **NIR** **pol**arimetry of Dawn mission targets (Ceres & Vesta) using NHAO NIC.
-* [Bach+ (2024a) A&A](https://doi.org/10.1051/0004-6361/202347813): **NIR** **pol**arimetry of airless objects in the negative branch (codes [here](https://github.com/ysBach/BachYP_etal_CeresVesta_NHAO)).
+* [Bach+ (2024b) A&A](https://ui.adsabs.harvard.edu/abs/2024A%26A...684A..81B): **NIR** **pol**arimetry of Dawn mission targets (Ceres & Vesta) using NHAO NIC.
+* [Bach+ (2024a) A&A](https://ui.adsabs.harvard.edu/abs/2024A%26A...684A..80B): **NIR** **pol**arimetry of airless objects in the negative branch (codes [here](https://github.com/ysBach/BachYP_etal_CeresVesta_NHAO)).
 * [Bach+ (2022) StGal (Instrum & Coding)](https://ui.adsabs.harvard.edu/abs/2022StGal...5....4B): **NIR** **pol**arimetric **pipeline** development for NHAO NIC, detector parameter refinements ([NICpolpy](https://github.com/ysBach/NICpolpy); tutorial [here](https://github.com/ysBach/nicpolpy_sag22sm)).
 * [Bach+ (2021) A&A (Theory)](https://ui.adsabs.harvard.edu/abs/2021A%26A...654A.113B/abstract): Dust ejection from (3200) Phaethon and near-Sun asteroids by thermal radiation pressure (TPM & calculation codes [here](https://github.com/ysBach/thermal_radiation01)).
 * [Bach+ (2019) JKAS](https://ui.adsabs.harvard.edu/abs/2019JKAS...52...71B/abstract): Optical **phot**ometry of (4179) Toutatis using KMTNet, determination of geometric albedo (photometry & analyses codes [here](https://github.com/ysBach/KMTNet_Toutatis)).
