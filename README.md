@@ -8,8 +8,8 @@
 |-------------:|:--------------:|:--------------:|:------------------:|:------------------:|
 |**Published** |     _**5**_    |     _**11**_   |       _**1***_     |      _**-**_       |
 |     Accepted |                |                |                    |                    |
-| Under-Review |                |                |                    |                    |
-|     In Prep. |        3       |                |                    |                    |
+| Under-Review |                |        1       |                    |                    |
+|     In Prep. |        3       |        3       |                    |                    |
 
 \* non-SCI publications are available via arXiv. See links below:
 
