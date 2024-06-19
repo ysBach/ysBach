@@ -3,12 +3,12 @@
 
 [PDF CV](https://www.dropbox.com/s/kicj8wg393r15qw/cv.pdf?dl=0)
 
-(last update 2024-04-18)
+(last update 2024-06-20)
 |              | SCI 1st author | SCI nth author | non-SCI 1st author | non-SCI nth author |
 |-------------:|:--------------:|:--------------:|:------------------:|:------------------:|
-|**Published** |     _**5**_    |     _**11**_   |       _**1**_     |      _**-**_       |
+|**Published** |     _**5**_    |     _**12**_   |       _**1**_     |      _**-**_       |
 |     Accepted |                |                |                    |                    |
-| Under-Review |                |        1       |                    |                    |
+| Under-Review |                |                |                    |                    |
 |     In Prep. |        3       |        3       |                    |                    |
 
 Profiles:
