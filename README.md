@@ -3,13 +3,13 @@
 
 [PDF CV](https://www.dropbox.com/s/kicj8wg393r15qw/cv.pdf?dl=0)
 
-(last update 2024-06-20)
+(last update 2024-08-19)
 |              | SCI 1st author | SCI nth author | non-SCI 1st author | non-SCI nth author |
 |-------------:|:--------------:|:--------------:|:------------------:|:------------------:|
 |**Published** |     _**5**_    |     _**12**_   |       _**1**_     |      _**-**_       |
-|     Accepted |                |                |                    |                    |
+|     Accepted |                |        1       |                    |                    |
 | Under-Review |                |                |                    |                    |
-|     In Prep. |        3       |        3       |                    |                    |
+|     In Prep. |        3       |        2       |                    |                    |
 
 Profiles:
   * [NASA ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22bach%2C%20yoonsoo%20p.%22%20year%3A2010-%20bibstem%3A(-%20zndo)%20bibstem%3A(-%20yCat))
