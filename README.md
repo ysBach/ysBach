@@ -1,5 +1,5 @@
 # Yoonsoo P. Bach
-([they/them](https://apastyle.apa.org/style-grammar-guidelines/grammar/singular-they) - I don't think my sex matters for science)
+([they/them](https://apastyle.apa.org/style-grammar-guidelines/grammar/singular-they) - I don't believe my sex is relevant to science.)
 
 [PDF CV](https://www.dropbox.com/s/kicj8wg393r15qw/cv.pdf?dl=0)
 
