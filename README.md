@@ -1,5 +1,5 @@
 # Yoonsoo P. Bach
-([they/them](https://apastyle.apa.org/style-grammar-guidelines/grammar/singular-they) - I feel sorry to ruin English grammar, but I don't believe my sex is relevant to science; why should it even matter?)
+([they/them](https://apastyle.apa.org/style-grammar-guidelines/grammar/singular-they) - As APA recommends. I don't believe my sex is relevant to science; why should it even matter?)
 
 [PDF CV](https://www.dropbox.com/s/kicj8wg393r15qw/cv.pdf?dl=0)
 
