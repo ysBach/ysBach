@@ -29,7 +29,7 @@ In *observational* approach, the main topics I focus on are:
 * Optical & near-infrared (**NIR**) polarimetry/photometry 
 * Experience in **HAWAII** infrared array, as well as optical detectors
 * Experience in extra-effort for accurate photometry (flat-field analyses, statistics, instrument parameter analyses, absolute/relative photometry of trailed objects, ...)
-* Experience in detector parameter analysis (gain, readout noise, waveplate rotation, ...)
+* Experience in detector parameter analysis (precise statistical assessments on gain, readout noise, waveplate rotation, ...)
 
 ## Selected Papers
 First-author & selected N-th author publications
