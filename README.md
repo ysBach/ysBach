@@ -16,13 +16,11 @@ Profiles:
   * [ORCiD ``0000-0002-2618-1124``](https://orcid.org/0000-0002-2618-1124)
   * GitHub [@ysBach](https://github.com/ysBach)
 
-## Education & Affiliations
-* Senior Researcher. KASI, SPHEREx mission (2025 May - )
-* PostDoc. KASI, SPHEREx mission (2023 Sep - 2025 Apr)
-* PhD. SNU, Astronomy (2023)
-  * _On the physical behavior of fine particles on airless bodies_
-  * SNU Best PhD Thesis award (2023), Excellent TA Award (2023), BK21 Excellent Graduate Student Research Award (2022)
-* BSc. KAIST, Physics (2016)
+## Summary of Education & Affiliations
+(details in CV)
+* Senior Researcher (2025.05 - ) & PostDoc. (2023.09 - 2025.04) @ KASI, SPHEREx mission
+* PhD. @ SNU, Astronomy (2023)
+* BSc. @ KAIST, Physics (2016)
 
 ## Research Interest
 My general interest includes **emission and scattering processes on airless objects** in the solar system (theory, observation, experimental data analyses, data reduction and related statistics and coding).
