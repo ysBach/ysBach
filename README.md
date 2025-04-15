@@ -20,6 +20,7 @@ Profiles:
 * Senior Researcher. KASI, SPHEREx mission (2025 May - )
 * PostDoc. KASI, SPHEREx mission (2023 Sep - 2025 Apr)
 * PhD. SNU, Astronomy (2023)
+  * On the physical behavior of fine particles on airless bodies (SNU Best PhD Thesis award; BK21 Excellent Graduate Student Research Award)
 * BSc. KAIST, Physics (2016)
 
 ## Research Interest
