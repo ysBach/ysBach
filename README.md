@@ -16,6 +16,7 @@ Profiles:
   * [ORCiD ``0000-0002-2618-1124``](https://orcid.org/0000-0002-2618-1124)
   * GitHub [@ysBach](https://github.com/ysBach)
 
+## Education & Affiliations
 * Senior Researcher. KASI, SPHEREx mission (2025 May - )
 * PostDoc. KASI, SPHEREx mission (2023 Sep - 2025 Apr)
 * PhD. SNU, Astronomy (2023)
