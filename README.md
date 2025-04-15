@@ -19,7 +19,12 @@ Profiles:
 ## Research Interest
 My general interest includes **emission and scattering processes on airless objects** in the solar system (theory, observation, experimental data analyses, data reduction and related statistics and coding).
 
-Currently I am working at KASI (Korea) as a postdoc researcher for NASA's SPHEREx (solar system science, image simulator and the mission data center pipeline development).
+Currently I am working at KASI (Korea) as a senior researcher for NASA's SPHEREx (solar system science, image simulator and the mission data center pipeline development).
+
+* BSc. KAIST, Physics (2016)
+* PhD. SNU, Astronomy (2023)
+* PostDoc. KASI, SPHEREx mission (2023 Sep - 2025 Apr)
+* Senior Researcher. KASI, SPHEREx mission (2025 May - )
  
 In *theoretical* approach, the main topics I focus on are:
 * **Thermal** radiation, radiation pressures from airless bodies.
