@@ -21,7 +21,7 @@ Profiles:
 * PostDoc. KASI, SPHEREx mission (2023 Sep - 2025 Apr)
 * PhD. SNU, Astronomy (2023)
   * _On the physical behavior of fine particles on airless bodies_
-  * SNU Best PhD Thesis award, BK21 Excellent Graduate Student Research Award
+  * SNU Best PhD Thesis award (2023), Excellent TA Award (2023), BK21 Excellent Graduate Student Research Award (2022)
 * BSc. KAIST, Physics (2016)
 
 ## Research Interest
