@@ -1,5 +1,6 @@
 # Yoonsoo P. Bach
-[they/them](https://apastyle.apa.org/style-grammar-guidelines/grammar/singular-they) - APA recommendation. I don't believe my sex is relevant to science :)
+* [they/them](https://apastyle.apa.org/style-grammar-guidelines/grammar/singular-they) - APA recommendation. I don't believe my sex is relevant to science :)
+* KASI - Division of Fundamental Astronomy and Space Science - Center for Galaxy Evolution Research - PostDoc
 
 [PDF CV](https://www.dropbox.com/s/kicj8wg393r15qw/cv.pdf?dl=0)
 
