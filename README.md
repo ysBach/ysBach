@@ -8,8 +8,8 @@
 (last update 2025-03-23)
 |              | SCI 1st author | SCI nth author | non-SCI 1st author | non-SCI nth author |
 |-------------:|:--------------:|:--------------:|:------------------:|:------------------:|
-|**Published** |     _**5**_    |     _**13**_   |       _**1**_     |      _**-**_       |
-|     Accepted |                |        1       |                    |                    |
+|**Published** |     _**5**_    |     _**14**_   |       _**1**_     |      _**-**_       |
+|     Accepted |                |                |                    |                    |
 | Under-Review |                |                |                    |                    |
 |     In Prep. |        -       |        -       |          -         |                    |
 
