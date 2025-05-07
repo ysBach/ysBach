@@ -1,7 +1,7 @@
 # Yoonsoo P. Bach
 * they/them - [APA recommendation](https://apastyle.apa.org/style-grammar-guidelines/grammar/singular-they). I don't believe my sex is relevant to science :)
-* **Current Affiliation** (2025 May):
-  1. Senior Researcher @ KASI, Korea (Division of Fundamental Astronomy and Space Science > Center for Galaxy Evolution Research)
+* **Current Affiliation** (2025 May-):
+  1. Appointed Senior Researcher @ KASI, Korea (Division of Fundamental Astronomy and Space Science > Center for Galaxy Evolution Research)
 
 [PDF CV](https://www.dropbox.com/s/kicj8wg393r15qw/cv.pdf?dl=0)
 
