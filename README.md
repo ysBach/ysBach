@@ -20,14 +20,14 @@ Profiles:
 
 ## Summary of Education & Affiliations
 (details in CV)
-* Appointed Senior Researcher (2025.05 - ) & PostDoc. (2023.09 - 2025.04) @ KASI, SPHEREx mission
+* Appointed Senior Researcher (2025.05 - ) & PostDoc. (2023.09 - 2025.04) @ KASI, SPHEREx (NASA) mission
 * PhD. @ SNU, Astronomy (2023)
 * BSc. @ KAIST, Physics (2016)
 
 ## Research Interest
 My general interest includes **emission and scattering processes on airless objects** in the solar system (theory, observation, experimental data analyses, data reduction and related statistics and coding).
 
-Currently I am working at KASI (Korea) as a senior researcher for NASA's SPHEREx (solar system science, image simulator and the mission data center pipeline development).
+Currently I am working at KASI (Korea) as an appointed senior researcher for NASA's SPHEREx (solar system science, image simulator and the mission data center pipeline development).
 
 In *theoretical* approach, the main topics I focus on are:
 * **Thermal** radiation, radiation pressures from airless bodies.
