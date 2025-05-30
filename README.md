@@ -20,7 +20,7 @@ Profiles:
 
 ## Summary of Education & Affiliations
 (details in CV)
-* Senior Researcher (2025.05 - ) & PostDoc. (2023.09 - 2025.04) @ KASI, SPHEREx mission
+* Appointed Senior Researcher (2025.05 - ) & PostDoc. (2023.09 - 2025.04) @ KASI, SPHEREx mission
 * PhD. @ SNU, Astronomy (2023)
 * BSc. @ KAIST, Physics (2016)
 
