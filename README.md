@@ -14,7 +14,7 @@
 |     In Prep. |        -       |        -       |          -         |                    |
 
 Profiles:
-  * [NASA ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22bach%2C%20yoonsoo%20p.%22%20year%3A2010-%20bibstem%3A(-%20zndo)%20bibstem%3A(-%20yCat))
+  * [NASA ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=author%3A%22bach%2C%20yoonsoo%20p.%22%20year%3A2010-%20bibstem%3A(-%20zndo)%20bibstem%3A(-%20yCat)%20bibstem%3A(-%20EPSC)%20bibstem%3A(-%20cosp)%20bibstem%3A(-%20AGUFM)&sort=date%20desc%2C%20bibcode%20desc&p_=0)
   * [ORCiD ``0000-0002-2618-1124``](https://orcid.org/0000-0002-2618-1124)
   * GitHub [@ysBach](https://github.com/ysBach)
 
