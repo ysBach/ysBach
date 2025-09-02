@@ -5,10 +5,10 @@
 
 [PDF CV](https://www.dropbox.com/s/kicj8wg393r15qw/cv.pdf?dl=0)
 
-(last update 2025-03-23)
+(last update 2025-09-02)
 |              | SCI 1st author | SCI nth author | non-SCI 1st author | non-SCI nth author |
 |-------------:|:--------------:|:--------------:|:------------------:|:------------------:|
-|**Published** |     _**5**_    |     _**14**_   |       _**1**_     |      _**-**_       |
+|**Published** |     _**5**_    |     _**14**_   |       _**1**_     |      _**1**_       |
 |     Accepted |                |                |                    |                    |
 | Under-Review |                |        3       |                    |                    |
 |     In Prep. |        -       |        -       |          -         |                    |
@@ -41,6 +41,8 @@ In *observational* approach, the main topics I focus on are:
 
 ## Selected Papers
 First-author & selected N-th author publications
+* [Lisse, Bach+ (2025) RNAAS](https://ui.adsabs.harvard.edu/abs/2025arXiv250815469L/abstract) (under revision): First SPHEREx report of 3I/ATLAS (more papers in prep)
+* [Crill, Bach+ (2025) ApJS](https://ui.adsabs.harvard.edu/abs/2025arXiv250524856C/abstract) (under revision): SPHEREx Sky Simulator
 * [Bach+ (2024b) A&A](https://ui.adsabs.harvard.edu/abs/2024A%26A...684A..81B): **NIR** **pol**arimetry of Dawn mission targets (Ceres & Vesta) using NHAO NIC.
 * [Bach+ (2024a) A&A](https://ui.adsabs.harvard.edu/abs/2024A%26A...684A..80B): **NIR** **pol**arimetry of airless objects in the negative branch (codes [here](https://github.com/ysBach/BachYP_etal_CeresVesta_NHAO)).
 * [Bach+ (2022) StGal (Instrum & Coding)](https://ui.adsabs.harvard.edu/abs/2022StGal...5....4B): **NIR** **pol**arimetric **pipeline** development for NHAO NIC, detector parameter refinements ([NICpolpy](https://github.com/ysBach/NICpolpy); tutorial [here](https://github.com/ysBach/nicpolpy_sag22sm)).
