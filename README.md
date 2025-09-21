@@ -5,13 +5,15 @@
 
 [PDF CV](https://www.dropbox.com/s/kicj8wg393r15qw/cv.pdf?dl=0)
 
-(last update 2025-09-02)
+(last update 2025-09-21)
 |              | SCI 1st author | SCI nth author | non-SCI 1st author | non-SCI nth author |
 |-------------:|:--------------:|:--------------:|:------------------:|:------------------:|
 |**Published** |     _**5**_    |     _**14**_   |       _**1**_     |      _**1**_       |
-|     Accepted |                |                |                    |                    |
-| Under-Review |                |        3       |                    |                    |
+|     Accepted |                |        2       |                    |                    |
+| Under-Review |                |        1       |                    |                    |
 |     In Prep. |        -       |        -       |          -         |                    |
+
+- Non-SCI includes StGal & RNAAS as of writing
 
 Profiles:
   * [NASA ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=author%3A%22bach%2C%20yoonsoo%20p.%22%20year%3A2010-%20bibstem%3A(-%20zndo)%20bibstem%3A(-%20yCat)%20bibstem%3A(-%20EPSC)%20bibstem%3A(-%20cosp)%20bibstem%3A(-%20AGUFM)&sort=date%20desc%2C%20bibcode%20desc&p_=0)
