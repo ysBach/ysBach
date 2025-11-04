@@ -5,7 +5,7 @@
 
 [PDF CV](https://www.dropbox.com/s/kicj8wg393r15qw/cv.pdf?dl=0)
 
-(last update 2025-09-21)
+(last update 2025-11-04)
 |              | SCI 1st author | SCI nth author | non-SCI 1st author | non-SCI nth author |
 |-------------:|:--------------:|:--------------:|:------------------:|:------------------:|
 |**Published** |     _**5**_    |     _**16**_   |       _**1**_     |      _**1**_       |
