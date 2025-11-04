@@ -22,9 +22,11 @@ Profiles:
 
 ## Summary of Education & Affiliations
 (details in CV)
-* Appointed Senior Researcher (2025.05 - ) & PostDoc. (2023.09 - 2025.04) @ KASI, SPHEREx (NASA) mission
-* PhD. @ SNU, Astronomy (2023)
-* BSc. @ KAIST, Physics (2016)
+* Appointed Senior Researcher (2025.05 - ) & PostDoc. (2023.09 - 2025.04) @ **KASI, SPHEREx (NASA) mission**
+* **PhD. @ SNU**, Astronomy (2023)
+  * Best PhD Thesis Award by SNU CNS (College of Natural Sciences)
+  * Hong Sik Yun Award in Heliospheric Astrophysics for the Best Doctoral Research by [the Korean Astronomical Society](https://www.kas.org/html/sub4_02_9.html)
+* **BSc. @ KAIST**, Physics (2016)
 
 ## Research Interest
 My general interest includes **emission and scattering processes on airless objects** in the solar system (theory, observation, experimental data analyses, data reduction and related statistics and coding).
