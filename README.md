@@ -1,5 +1,6 @@
 # Yoonsoo P. Bach
 * they/them - [APA recommendation](https://apastyle.apa.org/style-grammar-guidelines/grammar/singular-they). I don't believe my sex is relevant to science :)
+* NASA SPEHREx mission
 * **Current Affiliation** (2025 May-):
   1. Appointed Senior Researcher @ KASI, Korea (Division of Fundamental Astronomy and Space Science > Center for Galaxy Evolution Research)
 
@@ -21,7 +22,7 @@ Profiles:
 
 ## Summary of Education & Affiliations
 (details in CV)
-* Appointed Senior Researcher (2025.05 - ) & PostDoc. (2023.09 - 2025.04) @ **KASI, SPHEREx (NASA) mission**
+* Appointed Senior Researcher (2025.05 - ) & PostDoc. (2023.09 - 2025.04) @ **KASI, for NASA SPHEREx mission**
 * **PhD. @ SNU**, Astronomy (2023)
   * Best PhD Thesis Award by SNU CNS (College of Natural Sciences)
   * Hong Sik Yun Award in Heliospheric Astrophysics for the Best Doctoral Research by [the Korean Astronomical Society](https://www.kas.org/html/sub4_02_9.html)
