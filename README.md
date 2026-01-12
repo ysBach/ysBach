@@ -4,7 +4,7 @@
 * **Current Affiliation** (2025 May-):
   1. Appointed Senior Researcher @ KASI, Korea (Division of Fundamental Astronomy and Space Science > Center for Galaxy Evolution Research)
 
-[PDF CV](https://www.dropbox.com/s/kicj8wg393r15qw/cv.pdf?dl=0)
+[**PDF CV**](https://www.dropbox.com/s/kicj8wg393r15qw/cv.pdf?dl=0)
 
 (last update 2026-01-13)
 |                          | PR 1st author | PR nth author | non-PR 1st author | non-PR nth author |
