@@ -16,8 +16,9 @@
 - Non-PR (Peer-Reviewed) includes RNAAS as of writing
 
 Profiles:
-  * [NASA ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=author%3A%22bach%2C%20yoonsoo%20p.%22%20year%3A2010-%20bibstem%3A(-%20zndo)%20bibstem%3A(-%20yCat)%20bibstem%3A(-%20EPSC)%20bibstem%3A(-%20cosp)%20bibstem%3A(-%20AGUFM)&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+  * [NASA ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=author%3A%22bach%2C%20yoonsoo%20p.%22%20year%3A2010-%20bibstem%3A(-%20zndo)%20bibstem%3A(-%20yCat)%20bibstem%3A(-%20EPSC)%20bibstem%3A(-%20cosp)%20bibstem%3A(-%20LPICO)%20bibstem%3A(-%20AGUFM)%20bibstem%3A(-%20BKAS)&sort=date%20desc%2C%20bibcode%20desc&p_=0), [SciX by ADS](https://scixplorer.org/search?d=astrophysics&p=1&q=author%3A%22bach%2C+yoonsoo+p.%22+year%3A2010-+bibstem%3A(-+zndo)+bibstem%3A(-+yCat)+bibstem%3A(-+EPSC)+bibstem%3A(-+cosp)+bibstem%3A(-+LPICO)+bibstem%3A(-+AGUF))
   * [ORCiD ``0000-0002-2618-1124``](https://orcid.org/0000-0002-2618-1124)
+  * [Google Scholar](https://scholar.google.com/citations?user=PcuRKXAAAAAJ&hl=en)
   * GitHub [@ysBach](https://github.com/ysBach)
 
 ## Summary of Education & Affiliations
