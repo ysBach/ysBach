@@ -6,11 +6,11 @@
 
 [**PDF CV**](https://www.dropbox.com/s/kicj8wg393r15qw/cv.pdf?dl=0)
 
-(last update 2026-01-13)
+(last update 2026-05-13)
 |                          | PR 1st author | PR nth author | non-PR 1st author | non-PR nth author |
 |-------------------------:|:-------------:|:-------------:|:-----------------:|:-----------------:|
-|**Published or Accepted** |    _**6**_    |    _**17**_   |      _**-**_      |     _**1**_       |
-| Submitted/Under-Review   |               |       2       |                   |        1          |
+|**Published or Accepted** |    _**6**_    |    _**25**_   |      _**-**_      |     _**2**_       |
+| Submitted/Under-Review   |               |       2+      |                   |                   |
 |     In Prep.             |       -       |       -       |         -         |                   |
 
 - Non-PR (Peer-Reviewed) includes RNAAS as of writing
